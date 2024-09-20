@@ -1,6 +1,6 @@
 👋 Hi, I’m @miaw-code
-👀 I’m interested in backend programming and also blockchain
-🌱 I’m currently learning golang, and some other stuff
+- 👀 I’m interested in backend programming and also blockchain
+- 🌱 I’m currently learning golang, and some other stuff
 
 
 <!---
